@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4NVnnwq3CwtwtTFBuNURHP3IG4WqtYSua8g9n8IrKVtRe0um1W0K9w7WgEisca22rpPy0kTHn1+JGNHTX4SkgQ==",
+  "dgSpecHash": "3+VU/nreGui6Z27PxtkTTvoy7wryaDHAv4A/e+pgDL3SrS/uIwxZ07uGs1mim2ALG6048jOEw/4I2TdlmFnS/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\it\\c#\\UserTasks\\UserTasks.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\asp.versioning.abstractions\\8.0.0\\asp.versioning.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\asp.versioning.http\\8.0.0\\asp.versioning.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
